@@ -1,0 +1,1 @@
+Write a java code to read the data from the file then without using Hashmap calculate the total sum of the given data product wise
